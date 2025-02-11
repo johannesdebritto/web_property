@@ -1,4 +1,5 @@
 # Web Penjualan Rumah
+![Tampilan Aplikasi](login_rumahkreatif.JPG)
 
 ## 📌 Deskripsi
 **Web Penjualan Rumah** adalah platform berbasis web yang dikembangkan menggunakan **HTML, CSS, dan PHP native** untuk membantu pengguna dalam mencari dan menjual properti. Aplikasi ini memiliki dua bagian utama, yaitu **web client** untuk pembeli dan **web admin** untuk manajemen data rumah.
